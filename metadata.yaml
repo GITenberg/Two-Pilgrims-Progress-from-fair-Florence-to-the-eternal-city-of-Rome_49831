@@ -1,0 +1,34 @@
+_repo: Two-Pilgrims-Progress-from-fair-Florence-to-the-eternal-city-of-Rome_49831
+creator:
+  authors:
+  - agent_name: Pennell, Joseph
+    alias: Pennell, J. (Joseph)
+    birthdate: 1857
+    deathdate: 1926
+    gutenberg_agent_id: '33068'
+    url: http://www.gutenberg.org/2009/agents/33068
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Pennell
+  - agent_name: Pennell, Elizabeth Robins
+    alias: Pennell, E. R. (Elizabeth Robins)
+    birthdate: 1855
+    deathdate: 1936
+    gutenberg_agent_id: '25552'
+    url: http://www.gutenberg.org/2009/agents/25552
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Robins_Pennell
+description: ''
+gutenberg_issued: '2015-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49831'
+  lccn: 04019755
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Bicycle touring'
+- !lcsh 'Italy -- Description and travel'
+- !lcsh 'Cycling -- Italy'
+title: Two Pilgrims' Progress; from fair Florence, to the eternal city of Rome
+url: http://www.gutenberg.org/ebooks/49831
