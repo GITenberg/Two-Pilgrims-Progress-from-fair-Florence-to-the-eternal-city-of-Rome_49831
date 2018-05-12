@@ -1,4 +1,8 @@
 _repo: Two-Pilgrims-Progress-from-fair-Florence-to-the-eternal-city-of-Rome_49831
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Pennell, Joseph
@@ -16,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25552
     wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Robins_Pennell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49831#Two-Pilgrims-Progress-from-fair-Florence-to-the-eternal-city-of-Rome
 gutenberg_issued: '2015-08-31'
 gutenberg_type: Text
 identifiers:
